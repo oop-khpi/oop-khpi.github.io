@@ -153,7 +153,7 @@
 
 | Проект *demo* | Репозиторій проекта *demo* |
 | ------------- | -------------------------- |
-| ![Приклад структури проекту xone](https://sourceforge.net/p/oop-khpi/code/HEAD/tree/res/eclipse_demo_project.png?format=raw) | ![Приклад структури репозиторія проекту xone](https://sourceforge.net/p/oop-khpi/code/HEAD/tree/res/eclipse_demo_svn.png?format=raw) |
+| ![Приклад структури проекту xone](res/eclipse_demo_project.png) | ![Приклад структури репозиторія проекту xone](res/eclipse_demo_svn.png) |
 
 <span id="lab_report"></span>
 ### Звіт
