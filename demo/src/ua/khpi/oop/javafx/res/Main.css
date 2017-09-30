@@ -1,0 +1,17 @@
+.root {
+	-fx-padding: 20px;
+	-fx-background-color: linear-gradient(#9ddfff, #0080c0);
+}
+
+.button {
+	-fx-background-color: #68ceff;
+	-fx-padding: 10px;
+}
+
+.button:hover {
+	-fx-background-color: #b5e7ff;
+}
+
+.button:pressed {
+	-fx-background-color: #0077b0;
+}
