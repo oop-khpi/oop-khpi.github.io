@@ -149,7 +149,7 @@
 
 7. **Приклад** структури репозиторія проекта з назвою `demo`, якщо *Checkout URL* спільного сховища
 
-	`https://svn.code.sf.net/p/oop-khpi/code/`
+	`https://github.com/oop-khpi/oop-khpi.github.io.git/trunk`
 
 | Проект *demo* | Репозиторій проекта *demo* |
 | ------------- | -------------------------- |
