@@ -167,7 +167,7 @@
 	- шрифт: **Liberation Serif**, **Times New Roman** чи подібний; розмір: **14 pt**; міжрядковий інтервал: **одинарний**;
 	- відступ першого рядка абзацу: **1.25 см**; вирівнювання: **у ширину**.
 
-3. **Приклад** (див. файл [oop_appendix_2.pdf](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_appendix_2.pdf)).
+3. **Приклад** (див. [додатки](#appendixes)).
 
 4. **Структура**:
 
