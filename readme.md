@@ -24,7 +24,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4. Інтерактивні консольні програми для платформи Java SE](#task_04)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5. Розробка власних контейнерів. Серіалізація/десеріалізація об'єктів](#task_05)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6. Серіалізація/десеріалізація об'єктів](#task_06)<br />
-Розрахункове завдання](#summary_task)<br />
+[Розрахункове завдання](#summary_task)<br />
 [Завдання для студентів заочної форми навчання](#external_task)<br />
 [Додатки](#appendixes)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Приклади](#examples)<br />
