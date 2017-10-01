@@ -34,7 +34,7 @@
 <span id="soft"></span>
 ## Програмні засоби та інструменти
 
-1. [Java SE Development Kit 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - комплект розробника застосунків на мові Java (див. файл [se_appendix_1.pdf](https://sourceforge.net/p/oop-khpi/code/HEAD/tree/doc/oop_appendix_1.pdf?format=raw)).
+1. [Java SE Development Kit 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - комплект розробника застосунків на мові Java (див. файл [se_appendix_1.pdf](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_appendix_1.pdf)).
 
 2. [Eclipse IDE for Java Developers](http://www.eclipse.org/downloads/eclipse-packages/) - середовище розробки. Додатково встановити:
 	- [ObjectAid UML Explorer update site URL](http://www.objectaid.com/update/current/). Встановити тільки [ObjectAid Class Diagram plug-in](http://www.objectaid.com/class-diagram) - плагін візуалізації кода (показує UML class diagram);
@@ -101,7 +101,7 @@
 	- **проект** повинен мати назву `surname-name` - прізвище та им'я розробника [латинкою в нижньому регістрі](http://translit.kh.ua/?lat&passport);
 	- **пакети**, що містять всі розроблені класи та підпакети для кожного рішення, повинні мати назву `ua.khpi.oop.surnameXX`, де *XX* - номер роботи.
 
-2. **Початковий** код повинен відповідати [Java Code Conventions](https://sourceforge.net/p/oop-khpi/code/HEAD/tree/doc/Java_Code_Conventions.pdf?format=raw).
+2. **Початковий** код повинен відповідати [Java Code Conventions](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/Java_Code_Conventions.pdf).
 
 3. **Коментарі** використовувати для автоматичної генерації документації за допомогою [Javadoc](http://www.oracle.com/technetwork/java/javase/documentation/index-137868.html), [вікі](https://uk.wikipedia.org/wiki/Javadoc).
 
@@ -167,7 +167,7 @@
 	- шрифт: **Liberation Serif**, **Times New Roman** чи подібний; розмір: **14 pt**; міжрядковий інтервал: **одинарний**;
 	- відступ першого рядка абзацу: **1.25 см**; вирівнювання: **у ширину**.
 
-3. **Приклад** (див. файл [oop_appendix_2.pdf](https://sourceforge.net/p/oop-khpi/code/HEAD/tree/doc/oop_appendix_2.pdf?format=raw)).
+3. **Приклад** (див. файл [oop_appendix_2.pdf](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_appendix_2.pdf)).
 
 4. **Структура**:
 
@@ -414,25 +414,25 @@
 ---
 
 <span id="examples"></span>
-## [Приклади](https://sourceforge.net/p/oop-khpi/code/HEAD/tree/demo)
+## [Приклади](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo)
 
 |  №  | Проект | Пакет | Зміст |
 | --- | ------ | ----- | ----- |
-|  1  | [demo](https://sourceforge.net/p/oop-khpi/code/HEAD/tree/demo) | [ua.khpi.oop.demo01](https://sourceforge.net/p/oop-khpi/code/HEAD/tree/demo/src/ua/khpi/oop/demo01) | Демонстрація структури проекту рішення завдання лабораторної роботи №1 |
-|  2  | [demo](https://sourceforge.net/p/oop-khpi/code/HEAD/tree/demo) | [ua.khpi.oop.demo02](https://sourceforge.net/p/oop-khpi/code/HEAD/tree/demo/src/ua/khpi/oop/demo02) | Демонстрація структури проекту рішення завдання лабораторної роботи №2 |
-|  3  | [demo](https://sourceforge.net/p/oop-khpi/code/HEAD/tree/demo) | [ua.khpi.oop.demo03](https://sourceforge.net/p/oop-khpi/code/HEAD/tree/demo/src/ua/khpi/oop/demo03) | Демонстрація визначення часу обробки даних |
-|  4  | [demo](https://sourceforge.net/p/oop-khpi/code/HEAD/tree/demo) | [ua.khpi.oop.javafx](https://sourceforge.net/p/oop-khpi/code/HEAD/tree/demo/src/ua/khpi/oop/javafx) | Демонстрація простої віконної (JavaFX) програми. |
+|  1  | [demo](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo) | [ua.khpi.oop.demo01](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/demo01) | Демонстрація структури проекту рішення завдання лабораторної роботи №1 |
+|  2  | [demo](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo) | [ua.khpi.oop.demo02](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/demo02) | Демонстрація структури проекту рішення завдання лабораторної роботи №2 |
+|  3  | [demo](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo) | [ua.khpi.oop.demo03](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/demo03) | Демонстрація визначення часу обробки даних |
+|  4  | [demo](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo) | [ua.khpi.oop.javafx](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/javafx) | Демонстрація простої віконної (JavaFX) програми |
 
 ---
 
 <span id="appendixes"></span>
-## [Додатки](https://sourceforge.net/p/oop-khpi/code/HEAD/tree/doc)
+## [Додатки](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/doc)
 
 |  №  | Файл | Зміст |
 | --- | ---- | ----- |
-|  1  | [Java_Code_Conventions.pdf](https://sourceforge.net/p/oop-khpi/code/HEAD/tree/doc/Java_Code_Conventions.pdf?format=raw) | Java Code Conventions. Рекомендується до використання |
-|  2  | [oop_appendix_1.pdf](https://sourceforge.net/p/oop-khpi/code/HEAD/tree/doc/oop_appendix_1.pdf?format=raw) | Додаткові матеріали. Java: налаштування середовища розробки; робота з Git; основи роботи в середовищі Eclipse; робота з EGit; стиль кодування |
-|  3  | [oop_appendix_1.pdf](https://sourceforge.net/p/oop-khpi/code/HEAD/tree/doc/oop_appendix_2.pdf?format=raw) | Додаткові матеріали. Приклад альбому звітів |
+|  1  | [Java_Code_Conventions.pdf](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/Java_Code_Conventions.pdf) | Java Code Conventions. Рекомендується до використання |
+|  2  | [oop_appendix_1.pdf](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_appendix_1.pdf) | Налаштування середовища розробки; основи роботи в середовищі Eclipse; стиль кодування |
+|  3  | [demo01.pdf](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/demo/doc/demo01/demo01.pdf) | Приклад звіту |
 
 ---
 
