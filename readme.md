@@ -12,20 +12,21 @@
 
 [Програмні засоби та інструменти](#soft)<br />
 [Рекомендації](#references)<br />
-[Лабораторні роботи](#labs)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Спільні завдання](#lab_todo)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Вимоги](#lab_requirements)<br />
+[Спільні завдання](#lab_todo)<br />
+[Вимоги](#lab_requirements)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Структура проекту](#lab_project)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Робота з репозиторієм](#lab_repo)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Звіт](#lab_report)<br />
-[Теми та завдання](#tasks)<br />
+[Лабораторні роботи](#lab_tasks)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1. Структура програми мовою Java. Типи даних, літерали, операції і оператори](#task_01)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2. Консольні програми для платформи Java SE. Прості алгоритми обробки даних](#task_02)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2. Алгоритмічна декомпозиція. Прості алгоритми обробки даних](#task_02)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3. Утилітарні класи. Обробка масивів і рядків](#task_03)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4. Інтерактивні консольні програми для платформи Java SE](#task_04)<br />
 [Розрахункове завдання](#summary_task)<br />
 [Завдання для студентів заочної форми навчання](#external_task)<br />
-[Приклади](#examples)<br />
 [Додатки](#appendixes)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Приклади](#examples)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Документи](#documents)<br />
 [Примітки](#notes)<br />
 [Література](#literature)<br />
 
@@ -81,31 +82,31 @@
 
 ---
 
-<span id="labs"></span>
-## Лабораторні роботи
-
 <span id="lab_todo"></span>
-### Спільні завдання
+## Спільні завдання
 
 |  №  | Завдання |
 | --- | :------- |
-|  1  | Розробити програму для рішення [індивідуального завдання](#tasks) |
+|  1  | Розробити програму для рішення [індивідуального завдання](#lab_tasks) |
 |  2  | Виконати рефакторинґ з урахуванням загальних [вимог](#lab_requirements) |
 |  3  | Підготувати до перевірки опис розробленої програми у вигляді [звіту](#lab_report) |
 |  4  | Виправити програму з урахуванням отриманих зауважень |
 
-<span id="lab_requirements"></span>
-### Вимоги
+---
 
-1. **Рішення** всіх лабораторних робіт розміщувати у відповідних пакетах єдиного проекту Eclipse:
+<span id="lab_requirements"></span>
+## Вимоги
+
+<span id="lab_project"></span>
+### Структура проекту
+
+1. **Рішення** всіх лабораторних робіт розміщувати у відповідних пакетах єдиного проекту Eclipse (див. [приклад](#examples)):
 	- **проект** повинен мати назву `surname-name` - прізвище та им'я розробника [латинкою в нижньому регістрі](http://translit.kh.ua/?lat&passport);
 	- **пакети**, що містять всі розроблені класи та підпакети для кожного рішення, повинні мати назву `ua.khpi.oop.surnameXX`, де *XX* - номер роботи.
 
 2. **Початковий** код повинен відповідати [Java Code Conventions](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/Java_Code_Conventions.pdf).
 
 3. **Коментарі** використовувати для автоматичної генерації документації за допомогою [Javadoc](http://www.oracle.com/technetwork/java/javase/documentation/index-137868.html), [вікі](https://uk.wikipedia.org/wiki/Javadoc).
-
-4. **Схему** класів *(class diagram)* обов'язково розміщувати в кореневому пакеті кожного рішення (png-рисунки).
 
 <span id="lab_repo"></span>
 ### Робота з репозиторієм <sup><abbr title="SVN-репозиторій використовувати за розсудом викладача">[1](#note_svn)</abbr></sup>
@@ -147,14 +148,6 @@
 
 		`https://github.com/cpp-khpi/kitXX.git/trunk/shevchenko-taras`
 
-7. **Приклад** структури репозиторія проекта з назвою `demo`, якщо *Checkout URL* спільного сховища
-
-	`https://github.com/oop-khpi/oop-khpi.github.io.git/trunk`
-
-| Проект *demo* | Репозиторій проекта *demo* |
-| ------------- | -------------------------- |
-| ![Приклад структури проекту xone](res/eclipse_demo_project.png) | ![Приклад структури репозиторія проекту xone](res/eclipse_demo_svn.png) |
-
 <span id="lab_report"></span>
 ### Звіт
 
@@ -167,9 +160,7 @@
 	- шрифт: **Liberation Serif**, **Times New Roman** чи подібний; розмір: **14 pt**; міжрядковий інтервал: **одинарний**;
 	- відступ першого рядка абзацу: **1.25 см**; вирівнювання: **у ширину**.
 
-3. **Приклад** (див. [додатки](#appendixes)).
-
-4. **Структура**:
+3. **Структура**:
 
 | Обов'язковий розділ | Зауваження |
 |:--------------------|:-----------|
@@ -188,7 +179,9 @@
 
 ---
 
-<span id="tasks"></span>
+<span id="lab_tasks"></span>
+# Лабораторні роботи
+
 <span id="task_01"></span>
 ## 1. Структура програми мовою Java. Типи даних, літерали, операції і оператори
 
@@ -413,20 +406,27 @@
 
 ---
 
-<span id="examples"></span>
-## [Приклади](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo)
-
-|  №  | Проект | Пакет | Зміст |
-| --- | ------ | ----- | ----- |
-|  1  | [demo](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo) | [ua.khpi.oop.demo01](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/demo01) | Демонстрація структури проекту рішення завдання лабораторної роботи №1 |
-|  2  | [demo](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo) | [ua.khpi.oop.demo02](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/demo02) | Демонстрація структури проекту рішення завдання лабораторної роботи №2 |
-|  3  | [demo](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo) | [ua.khpi.oop.demo03](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/demo03) | Демонстрація визначення часу обробки даних |
-|  4  | [demo](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo) | [ua.khpi.oop.javafx](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/javafx) | Демонстрація простої віконної (JavaFX) програми |
-
----
-
 <span id="appendixes"></span>
-## [Додатки](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/doc)
+## Додатки
+
+<span id="examples"></span>
+### Приклади
+
+Структура проекту [demo](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo)
+
+| Проект *demo* | Репозиторій проекта *demo* |
+| ------------- | -------------------------- |
+| ![Приклад структури проекту demo](res/eclipse_demo_project.png) | ![Приклад структури репозиторія проекту demo](res/eclipse_demo_svn.png) |
+
+|  №  | Пакет | Зміст |
+| --- | ----- | ----- |
+|  1  | [ua.khpi.oop.demo01](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/demo01) | Демонстрація структури проекту рішення завдання лабораторної роботи №1 |
+|  2  | [ua.khpi.oop.demo02](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/demo02) | Демонстрація структури проекту рішення завдання лабораторної роботи №2 |
+|  3  | [ua.khpi.oop.demo03](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/demo03) | Демонстрація визначення часу обробки даних |
+|  4  | [ua.khpi.oop.javafx](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/javafx) | Демонстрація простої віконної (JavaFX) програми |
+
+<span id="documents"></span>
+### Документи
 
 |  №  | Файл | Зміст |
 | --- | ---- | ----- |
