@@ -360,25 +360,24 @@
 1. Розробити клас-контейнер, що [ітерується](http://docs.oracle.com/javase/8/docs/api/java/lang/Iterable.html) для збереження початкових даних завдання [л.р. №3](#task_03_app) у вигляді **масиву рядків** з можливістю додавання, видалення і зміни елементів.
 
 2. В контейнері реалізувати та продемонструвати наступні методи:
-- `String toString()` повертає вміст контейнера у вигляді рядка;
-- `void add(String string)` додає вказаний елемент до кінця контейнеру;
-- `void clear()` видаляє всі елементи з контейнеру;
-- `boolean remove(String string)` видаляє перший випадок вказаного елемента з контейнера;
-- `Object[] toArray()` повертає масив, що містить всі елементи у контейнері;
-- `int size()` повертає кількість елементів у контейнері;
-- `boolean contains(String string)` повертає `true`, якщо контейнер містить вказаний елемент;
-- `boolean containsAll(Container container)` повертає `true`, якщо контейнер містить всі елементи з зазначеного у параметрах;
-- `public Iterator<String> iterator()` повертає ітератор відповідно до [Interface Iterable](http://docs.oracle.com/javase/8/docs/api/java/lang/Iterable.html).
+	- `String toString()` повертає вміст контейнера у вигляді рядка;
+	- `void add(String string)` додає вказаний елемент до кінця контейнеру;
+	- `void clear()` видаляє всі елементи з контейнеру;
+	- `boolean remove(String string)` видаляє перший випадок вказаного елемента з контейнера;
+	- `Object[] toArray()` повертає масив, що містить всі елементи у контейнері;
+	- `int size()` повертає кількість елементів у контейнері;
+	- `boolean contains(String string)` повертає `true`, якщо контейнер містить вказаний елемент;
+	- `boolean containsAll(Container container)` повертає `true`, якщо контейнер містить всі елементи з зазначеного у параметрах;
+	- `public Iterator<String> iterator()` повертає ітератор відповідно до [Interface Iterable](http://docs.oracle.com/javase/8/docs/api/java/lang/Iterable.html).
 
 3. В класі ітератора відповідно до [Interface Iterator](http://docs.oracle.com/javase/8/docs/api/java/util/Iterator.html) реалізувати методи:
-- `public boolean hasNext()`;
-- `public String next()`;
-- `public void remove()`;
+	- `public boolean hasNext()`;
+	- `public String next()`;
+	- `public void remove()`;
 
 4. Продемонструвати роботу ітератора за допомогою циклів *while* и *for each*.
 
 5. Забороняється використання контейнерів (колекцій) і алгоритмів з [Java Collections Framework](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/).
-
 
 ---
 
@@ -391,7 +390,7 @@
 
 ### Вимоги
 
-1. Реалізувати і продемонструвати тривале зберігання/відновлення [раніше розробленого контейнера](#task_05) за допомогою [серіалізації/десеріалізації](http://www.ibm.com/developerworks/ru/library/j-5things1/) ([Tutorial](http://www.vogella.com/tutorials/JavaSerialization/article.html)).
+1. Реалізувати і продемонструвати тривале зберігання/відновлення [раніше розробленого контейнера](#task_05) за допомогою [серіалізації/десеріалізації](https://docs.oracle.com/javase/8/docs/technotes/guides/serialization/index.html).
 
 2. Обмінятися відкомпільованим (без початкового коду) службовим класом (Utility Class) рішення задачі [л.р. №3](#task_03_app) з іншим студентом (визначає викладач).
 
@@ -400,6 +399,12 @@
 4. Реалізувати та продемонструвати порівняння, сортування та пошук елементів у контейнері.
 
 5. Розробити консольну програму та забезпечити діалоговий режим роботи з користувачем для демонстрації та тестування рішення.
+
+### Рекомендації
+
+1. [Java Object Serialization Specification](https://docs.oracle.com/javase/8/docs/platform/serialization/spec/serialTOC.html).
+2. [Java object serialization. Tutorial](http://www.vogella.com/tutorials/JavaSerialization/article.html).
+3. [Пять вещей, которые вы не знали о сериализации](http://www.ibm.com/developerworks/ru/library/j-5things1/).
 
 ---
 
