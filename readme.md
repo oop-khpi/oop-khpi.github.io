@@ -474,13 +474,13 @@
 <span id="examples"></span>
 ### Приклади
 
-- Структура проекту [demo](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo)
+#### Структура проекту [demo](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo)
 
 | Проект *demo* | Репозиторій проекта *demo* |
 | ------------- | -------------------------- |
 | ![Приклад структури проекту demo](res/eclipse_demo_project.png) | ![Приклад структури репозиторія проекту demo](res/eclipse_demo_svn.png) |
 
-- Пакети проекту [demo](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo)
+#### Пакети проекту [demo](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo)
 
 |  №  | Пакет | Опис |
 | --- | ----- | ---- |
