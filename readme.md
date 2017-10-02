@@ -474,14 +474,16 @@
 <span id="examples"></span>
 ### Приклади
 
-Структура проекту [demo](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo)
+- Структура проекту [demo](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo)
 
 | Проект *demo* | Репозиторій проекта *demo* |
 | ------------- | -------------------------- |
 | ![Приклад структури проекту demo](res/eclipse_demo_project.png) | ![Приклад структури репозиторія проекту demo](res/eclipse_demo_svn.png) |
 
-|  №  | Пакет | Зміст |
-| --- | ----- | ----- |
+- Пакети проекту [demo](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo)
+
+|  №  | Пакет | Опис |
+| --- | ----- | ---- |
 |  1  | [ua.khpi.oop.demo01](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/demo01) | Демонстрація структури проекту рішення завдання лабораторної роботи №1 |
 |  2  | [ua.khpi.oop.demo02](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/demo02) | Демонстрація структури проекту рішення завдання лабораторної роботи №2 |
 |  3  | [ua.khpi.oop.demo03](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/demo03) | Демонстрація визначення часу обробки даних |
@@ -490,8 +492,8 @@
 <span id="documents"></span>
 ### Документи
 
-|  №  | Файл | Зміст |
-| --- | ---- | ----- |
+|  №  | Файл | Опис |
+| --- | ---- | ---- |
 |  1  | [Java_Code_Conventions.pdf](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/Java_Code_Conventions.pdf) | Java Code Conventions. Рекомендується до використання |
 |  2  | [oop_appendix_1.pdf](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_appendix_1.pdf) | Налаштування середовища розробки; основи роботи в середовищі Eclipse; стиль кодування |
 |  3  | [demo01.pdf](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/demo/doc/demo01/demo01.pdf) | Приклад звіту |
