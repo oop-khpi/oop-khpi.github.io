@@ -373,7 +373,7 @@
 3. В класі ітератора відповідно до [Interface Iterator](http://docs.oracle.com/javase/8/docs/api/java/util/Iterator.html) реалізувати методи:
 	- `public boolean hasNext()`;
 	- `public String next()`;
-	- `public void remove()`;
+	- `public void remove()`.
 
 4. Продемонструвати роботу ітератора за допомогою циклів *while* и *for each*.
 
