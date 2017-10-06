@@ -135,14 +135,14 @@
 
 5. **Проект** Eclipse командою контекстного меню *Team / Share Project with SVN Repository* додати до репозиторію:
 	- в діалоговому вікні обрати *Use existing repository location*;
-	- вказати *Checkout URL* спільного сховища.
+	- вказати **Checkout URL спільного сховища**.
 
-6. **Checkout URL** спільного сховища можна знайти під кнопкою **Clone or download** на відповідній сторінці [github.com](https://github.com) створеного викладачем проекту та додавши `/trunk`. **Checkout URL** для доступу до особистої директорії формується додаванням `/trunk` та назви особистої директорії. Наприклад:
+6. **Checkout URL спільного сховища** можна знайти під кнопкою **Clone or download** на відповідній сторінці [github.com](https://github.com) створеного викладачем проекту та додавши `/trunk`. **Checkout URL** для доступу до особистої директорії формується додаванням `/trunk` та назви особистої директорії. Наприклад:
 	- після натискання кнопки *Clone or download* відображається:
 
 		`https://github.com/oop-khpi/kitXX.git`
 
-	- *Checkout URL* загального сховища має вигляд:
+	- **Checkout URL спільного сховища** має вигляд:
 
 		`https://github.com/oop-khpi/kitXX.git/trunk`
 
