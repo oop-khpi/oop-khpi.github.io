@@ -24,6 +24,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4. Інтерактивні консольні програми для платформи Java SE](#task_04)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5. Розробка власних контейнерів. Ітератори](#task_05)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6. Серіалізація/десеріалізація об'єктів. Бібліотека класів користувача](#task_06)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[7. Об'єктно-орієнтована декомпозиція](#task_07)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[8. Основи введення/виведення Java SE](#task_08)<br />
 [Розрахункове завдання](#summary_task)<br />
 [Завдання для студентів заочної форми навчання](#external_task)<br />
 [Додатки](#appendixes)<br />
