@@ -740,7 +740,7 @@
 
 1. [Java Collections Framework](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/reference.html).
 
-2. [Tutorial](http://docs.oracle.com/javase/tutorial/collections/index.html).
+2. [Java Tutorials: Collections](http://docs.oracle.com/javase/tutorial/collections/index.html).
 
 ---
 
