@@ -32,7 +32,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[12. Регулярні вирази. Обробка тексту](#task_12)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[13. Паралельне виконання. Багатопоточність](#task_13)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[14. Паралельне виконання. Ефективність використання](#task_14)<br />
-[Розрахункове завдання](#summary_task)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[15. Колекції в Java](#task_15)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[16. Розробка графічного інтерфейсу користувача](#task_16)<br />
 [Завдання для студентів заочної форми навчання](#external_task)<br />
 [Додатки](#appendixes)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Приклади](#examples)<br />
@@ -745,7 +746,7 @@
 ---
 
 <span id="task_16"></span>
-## 16. Розробка графічного інтерфейсу користувача.
+## 16. Розробка графічного інтерфейсу користувача
 
 ### Мета
 
@@ -755,15 +756,11 @@
 
 Розробити графічний інтерфейс користувача для програми рішення попередньої лабораторної роботи з використанням засобів *JavaFX*.
 
-
 ### Рекомендації
 
 1. [Java SE Client Technologies](http://docs.oracle.com/javase/8/javase-clienttechnologies.htm).
 2. [Working with JavaFX UI Components](http://docs.oracle.com/javase/8/javafx/user-interface-tutorial/).
 3. [Підручник з JavaFX 8](http://code.makery.ch/library/javafx-8-tutorial/uk/).
----
-
-![В розробці...](res/under_construction.png)
 
 ---
 
