@@ -740,7 +740,6 @@
 ### Рекомендації
 
 1. [Java Collections Framework](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/reference.html).
-
 2. [Java Tutorials: Collections](http://docs.oracle.com/javase/tutorial/collections/index.html).
 
 ---
@@ -761,6 +760,8 @@
 1. [Java SE Client Technologies](http://docs.oracle.com/javase/8/javase-clienttechnologies.htm).
 2. [Working with JavaFX UI Components](http://docs.oracle.com/javase/8/javafx/user-interface-tutorial/).
 3. [Підручник з JavaFX 8](http://code.makery.ch/library/javafx-8-tutorial/uk/).
+4. [JavaFX: Mastering FXML](https://docs.oracle.com/javase/8/javafx/fxml-tutorial/index.html).
+5. [Introduction to FXML](https://docs.oracle.com/javase/8/javafx/api/javafx/fxml/doc-files/introduction_to_fxml.html)
 
 ---
 
