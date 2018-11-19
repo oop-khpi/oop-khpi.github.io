@@ -804,26 +804,49 @@
 #### Структура проекту [demo](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo)
 
 | Проект *demo* | Репозиторій проекта *demo* |
-| ------------- | -------------------------- |
+|:--------------|:---------------------------|
 | ![Приклад структури проекту demo](res/eclipse_demo_project.png) | ![Приклад структури репозиторія проекту demo](res/eclipse_demo_svn.png) |
 
 #### Пакети проекту [demo](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo)
 
-|  №  | Пакет | Опис |
-| --- | ----- | ---- |
-|  1  | [ua.khpi.oop.demo01](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/demo01) | Демонстрація структури проекту рішення завдання лабораторної роботи №1 |
-|  2  | [ua.khpi.oop.demo02](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/demo02) | Демонстрація структури проекту рішення завдання лабораторної роботи №2 |
-|  3  | [ua.khpi.oop.demo03](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/demo03) | Демонстрація визначення часу обробки даних |
-|  4  | [ua.khpi.oop.javafx](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/javafx) | Демонстрація простої віконної (JavaFX) програми |
+|  № | Пакет | Опис |
+|---:|:------|:-----|
+|  1 | [ua.khpi.oop.demo01](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/demo01) | Демонстрація структури проекту рішення завдання лабораторної роботи №1 |
+|  2 | [ua.khpi.oop.demo02](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/demo02) | Демонстрація структури проекту рішення завдання лабораторної роботи №2 |
+|  3 | [ua.khpi.oop.demo03](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/demo03) | Демонстрація визначення часу обробки даних |
+|  4 | [ua.khpi.oop.javafx](https://github.com/oop-khpi/oop-khpi.github.io/tree/master/demo/src/ua/khpi/oop/javafx) | Демонстрація простої віконної (JavaFX) програми |
 
 <span id="documents"></span>
 ### Документи
 
-|  №  | Файл | Опис |
-| --- | ---- | ---- |
-|  1  | [Java_Code_Conventions.pdf](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/Java_Code_Conventions.pdf) | Java Code Conventions. Рекомендується до використання |
-|  2  | [oop_appendix_1.pdf](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_appendix_1.pdf) | Налаштування середовища розробки; основи роботи в середовищі Eclipse; стиль кодування |
-|  3  | [demo01.pdf](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/demo/doc/demo01/demo01.pdf) | Приклад звіту |
+#### Презентації (скорочений варіант)
+
+|  № | Призначення | Зміст |
+|---:|:------------|:------|
+|  1 | [Лекція №1](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_s01_ids_types_main.pdf) | Keywords, data types, main method |
+|  2 | [Лекція №2](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_s02_ops_labels_arr.pdf) | Operations, labels, arrays |
+|  3 | [Лекція №3](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_s03_packages_classes_objects.pdf) | Packages, classes, objects, this, super |
+|  4 | [Лекція №4](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_s04_strings.pdf) | Strings |
+|  5 | [Лекція №5](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_s05_override_overload_abstract.pdf) | Overloading, overriding, abstract classes, interfaces |
+|  6 | [Лекція №6](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_s06_conv_linking_nested_serial.pdf) | Conversions, instanceof, linking, nested classes. Serialization |
+|  7 | [Лекція №7](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_s07_jar_javadoc_wrappers.pdf) | JAR. Javadoc. Wrappers, autoboxing, unboxing |
+|  8 | [Лекція №8](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_s08_io.pdf) | Basic I/O |
+|  9 | [Лекція №9](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_s09_io_jni.pdf) | java.io.File, java.io.FileFilter. JNI |
+| 10 | [Лекція №10](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_s10_collections.pdf) | Java Collections Framework |
+| 11 | [Лекція №11](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_s11_rtti_anns_gens.pdf) | RTTI. Annotations. Generics |
+| 12 | [Лекція №12](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_s12_exceptions.pdf) | Java Exception Handling |
+| 13 | [Лекція №13](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_s13_regex.pdf) | Java Regular Expressions |
+| 14 | [Лекція №14](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_s14_threads.pdf) | Multi-threading |
+| 15 | [Лекція №15](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_s15_UML.pdf) | Unified Modeling Language |
+| 16 | [Лекція №16](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_s16_pojo.pdf) | POJO, JavaBeans |
+
+#### Додатково
+
+|  № | Файл | Опис |
+|---:|:-----|:-----|
+|  1 | [Java_Code_Conventions.pdf](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/Java_Code_Conventions.pdf) | Java Code Conventions. Рекомендується до використання |
+|  2 | [oop_appendix_1.pdf](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_appendix_1.pdf) | Налаштування середовища розробки; основи роботи в середовищі Eclipse; стиль кодування |
+|  3 | [demo01.pdf](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/demo/doc/demo01/demo01.pdf) | Приклад звіту |
 
 ---
 
