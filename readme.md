@@ -46,14 +46,13 @@
 <span id="soft"></span>
 ## Програмні засоби та інструменти
 
-1. [Java SE Development Kit 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - комплект розробника застосунків на мові Java (див. файл [se_appendix_1.pdf](https://github.com/oop-khpi/oop-khpi.github.io/raw/master/doc/oop_appendix_1.pdf)).
+1. [OpenJDK 11](https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot) - комплект розробника застосунків на мові Java.
 
 2. [Eclipse IDE for Java Developers](http://www.eclipse.org/downloads/eclipse-packages/) - середовище розробки. Додатково встановити:
-	- [ObjectAid UML Explorer update site URL](http://www.objectaid.com/update/current/). Встановити тільки [ObjectAid Class Diagram plug-in](http://www.objectaid.com/class-diagram) - плагін візуалізації кода (показує UML class diagram);
-	- [Checkstyle update site URL](http://eclipse-cs.sourceforge.net/update) - перевіряє початковий код на відповідність стандартам кодування. Використовувати конфігурацію [Sun Checks Eclipse](http://www.vogella.com/tutorials/Checkstyle/article.html#installation) ([інсталяція](http://eclipse-cs.sourceforge.net/#!/install), [налаштування](http://eclipse-cs.sourceforge.net/#!/project-setup), [Tutorial](http://www.vogella.com/tutorials/Checkstyle/article.html));
-	- [Regex Util update site URL](http://regex-util.sourceforge.net/update/) - для зручної перевірки [регулярних виразів](https://en.wikipedia.org/wiki/Regular_expression) ([Project home](http://myregexp.com/eclipsePlugin.html)). Відкрити в Eclipse за допомогою меню `Window / Show View / Other / Regex Util`.
-	- [Subclipse Eclipse update site URL](https://dl.bintray.com/subclipse/releases/subclipse/latest/) <sup><abbr title="SVN-репозиторій використовувати за розсудом викладача">[1](#note_svn)</abbr></sup> - Eclipse plug-in which provides support for Subversion ([Project wiki](https://github.com/subclipse/subclipse/wiki)). Встановити компоненти:
-
+	- add-on: [ObjectAid Class Diagram](http://www.objectaid.com/class-diagram) ([update site URL](http://www.objectaid.com/update/current/)) - показує *UML class diagram*;
+	- add-on: [Checkstyle](https://checkstyle.org/eclipse-cs/#!/) ([update site URL](http://eclipse-cs.sourceforge.net/update)) -  перевіряє початковий код на відповідність стандартам кодування;
+	- add-on: [Regex Util](http://myregexp.com/eclipsePlugin.html) ([update site URL](http://regex-util.sourceforge.net/update/)) - для зручної перевірки [регулярних виразів](https://en.wikipedia.org/wiki/Regular_expression) ([Project home](http://myregexp.com/eclipsePlugin.html)). Відкрити в Eclipse за допомогою меню `Window / Show View / Other / Regex Util`.
+	- add-on: [Subclipse](https://github.com/subclipse/subclipse/wiki) ([update site URL](https://dl.bintray.com/subclipse/releases/subclipse/latest/)) <sup><abbr title="SVN-репозиторій використовувати за розсудом викладача">[1](#note_svn)</abbr></sup> - підтримка [Subversion](https://en.wikipedia.org/wiki/Apache_Subversion). Встановити компоненти:
 		- Subclipse;
 		- Subversion JavaHL Windows Native DLL's.
 
