@@ -46,7 +46,7 @@
 <span id="soft"></span>
 ## Програмні засоби та інструменти
 
-1. [OpenJDK 11](https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot) - комплект розробника застосунків на мові Java.
+1. [OpenJDK 11](https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot) - комплект розробника застосунків мовою Java.
 
 2. [Eclipse IDE for Java Developers](http://www.eclipse.org/downloads/eclipse-packages/) - середовище розробки. Додатково встановити:
 	- add-on: [ObjectAid Class Diagram](http://www.objectaid.com/class-diagram) ([update site URL](http://www.objectaid.com/update/current/)) - показує *UML class diagram*;
