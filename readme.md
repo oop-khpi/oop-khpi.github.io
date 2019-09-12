@@ -50,7 +50,7 @@
 
 2. [Eclipse IDE for Java Developers](http://www.eclipse.org/downloads/eclipse-packages/) - середовище розробки. Додатково встановити:
 	- add-on: [ObjectAid Class Diagram](http://www.objectaid.com/class-diagram) ([update site URL](http://www.objectaid.com/update/current/)) - показує *UML class diagram*;
-	- add-on: [Checkstyle](https://checkstyle.org/eclipse-cs/#!/) ([update site URL](http://eclipse-cs.sourceforge.net/update)) -  перевіряє початковий код на відповідність стандартам кодування;
+	- add-on: [Checkstyle](https://checkstyle.org/eclipse-cs/#!/) ([update site URL](http://eclipse-cs.sourceforge.net/update)) -  перевіряє початковий код на відповідність [стандартам кодування](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf);
 	- add-on: [Regex Util](http://myregexp.com/eclipsePlugin.html) ([update site URL](http://regex-util.sourceforge.net/update/)) - для зручної перевірки [регулярних виразів](https://en.wikipedia.org/wiki/Regular_expression) ([Project home](http://myregexp.com/eclipsePlugin.html)). Відкрити в Eclipse за допомогою меню `Window / Show View / Other / Regex Util`.
 	- add-on: [Subclipse](https://github.com/subclipse/subclipse/wiki) ([update site URL](https://dl.bintray.com/subclipse/releases/subclipse/latest/)) <sup><abbr title="SVN-репозиторій використовувати за розсудом викладача">[1](#note_svn)</abbr></sup> - підтримка [Subversion](https://en.wikipedia.org/wiki/Apache_Subversion). Встановити компоненти:
 		- Subclipse;
