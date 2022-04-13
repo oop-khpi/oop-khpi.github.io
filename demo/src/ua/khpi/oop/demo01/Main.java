@@ -7,10 +7,10 @@ package ua.khpi.oop.demo01;
 public final class Main {
 
 	/**
-	 * Приватний конструктор класу утиліт.
+	 * Приватний конструктор для запобігання створення екземплярів.
 	 */
 	private Main() {
-		// Пусте тіло.
+		throw new UnsupportedOperationException();
 	}
 
 	/**
@@ -27,5 +27,4 @@ public final class Main {
 			System.out.println(arg);
 		}
 	}
-
 }

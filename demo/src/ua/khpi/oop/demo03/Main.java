@@ -18,10 +18,10 @@ public final class Main {
 	private static final double DIVIDER = 1_000_000;
 
 	/**
-	 * Приватний конструктор класу утиліт.
+	 * Приватний конструктор для запобігання створення екземплярів.
 	 */
 	private Main() {
-		// Пусте тіло.
+		throw new UnsupportedOperationException();
 	}
 
 	/**
