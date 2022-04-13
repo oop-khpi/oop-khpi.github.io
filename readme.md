@@ -1,6 +1,6 @@
 # 301 - Moved Permanently
 
-![Moved Permanently](res/y02.jpg)
+![Moved Permanently](res/y01.webp)
 
 # Location: [oop-khpi.gitlab.io](https://oop-khpi.gitlab.io/)
 
