@@ -22,7 +22,7 @@ public final class Main {
 			"V v   W w   X x   Y y   Z z" };
 
 	/**
-	 * Масив алфавітів.
+	 * Масив абеток.
 	 */
 	private static final String[][] ALPHABETS = { UKRAINIAN_ALPHABET, ENGLISH_ALPHABET };
 
